@@ -1,0 +1,17 @@
+{
+    "name": "uvk.landgraf",
+    "description": "description of uVk",
+    "architecture": "@CLICK_ARCH@",
+    "title": "uVk",
+    "hooks": {
+        "uVk": {
+            "apparmor": "uVk/uVk.apparmor",
+            "desktop":  "uVk/uVk.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Anton Ustin <Landgraf132@yandex.ru>",
+    "framework" : "ubuntu-sdk-15.04.4"
+}
+
+

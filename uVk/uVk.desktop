@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=uVk
+Exec=qmlscene %U uVk/Main.qml
+Icon=uVk/uVk.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

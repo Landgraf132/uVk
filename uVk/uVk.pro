@@ -35,6 +35,8 @@ INSTALLS+=config_files qml_files desktop_file
 
 DISTFILES += \
     Auth.js \
+    DialogPage.qml \
+    Auth.qml \
     MessagePage.qml \
-    DialogsPage.qml
+    Database.js
 
